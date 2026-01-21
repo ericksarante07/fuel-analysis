@@ -1,0 +1,43 @@
+# ======================
+# Entornos virtuales
+# ======================
+fuel_analysis/
+venv/
+.venv/
+
+# ======================
+# Python
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ======================
+# Jupyter
+# ======================
+.ipynb_checkpoints/
+
+# ======================
+# Datos
+# ======================
+data/raw/*
+!data/raw/.gitkeep
+
+# ======================
+# Archivos generados
+# ======================
+data/processed/*
+!data/processed/.gitkeep
+
+# ======================
+# IDEs
+# ======================
+.vscode/
+.idea/
+
+# ======================
+# Sistema
+# ======================
+.DS_Store
+Thumbs.db
