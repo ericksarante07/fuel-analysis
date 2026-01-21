@@ -19,18 +19,6 @@ __pycache__/
 .ipynb_checkpoints/
 
 # ======================
-# Datos
-# ======================
-data/raw/*
-!data/raw/.gitkeep
-
-# ======================
-# Archivos generados
-# ======================
-data/processed/*
-!data/processed/.gitkeep
-
-# ======================
 # IDEs
 # ======================
 .vscode/
